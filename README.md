@@ -1,11 +1,11 @@
 ### 💫 About Me:
 Hi 👋, I'm Anand Singh Chauhan  <br><br>💻 Web Developer | AI/ML Engineer | Full Stack Developer <br><br>
-💻 Passionate Developer: I’m a Web Developer with experience in Frontend, Full Stack Development, and AI/ML. I enjoy building modern web applications, designing clean user interfaces, and creating efficient backend systems using Python and modern frameworks. <br>
-🌱 Always Learning: Currently exploring advanced technologies in Artificial Intelligence, Machine Learning, and scalable backend architectures to build smarter and more efficient applications. <br>
-🔧 Tech Enthusiast: I love working with technologies like Python, React, Angular, FastAPI, and modern web tools to create real-world solutions and improve application performance. <br>
-📈 Impactful Development: I focus on building practical projects such as web applications, automation tools, and AI-powered solutions that solve real problems and enhance user experiences. <br>
-🌍 Ask Me About: Python, React, Angular, APIs, Web Development, and Machine Learning. <br>
-⚡ Fun Fact: I enjoy solving complex problems and turning ideas into working applications through code.
+<li> 💻 Passionate Developer: I’m a Web Developer with experience in Frontend, Full Stack Development, and AI/ML. I enjoy building modern web applications, designing clean user interfaces, and creating efficient backend systems using Python and modern frameworks. </li> <br>
+<li>🌱 Always Learning: Currently exploring advanced technologies in Artificial Intelligence, Machine Learning, and scalable backend architectures to build smarter and more efficient applications.</li> <br>
+<li>🔧 Tech Enthusiast: I love working with technologies like Python, React, Angular, FastAPI, and modern web tools to create real-world solutions and improve application performance. </li><br>
+<li>📈 Impactful Development: I focus on building practical projects such as web applications, automation tools, and AI-powered solutions that solve real problems and enhance user experiences. </li> <br>
+<li>🌍 Ask Me About: Python, React, Angular, APIs, Web Development, and Machine Learning. </li><br>
+<li>⚡ Fun Fact: I enjoy solving complex problems and turning ideas into working applications through code.</li>
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prithvig9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ananddd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandsinghc22@gmail.com) 
