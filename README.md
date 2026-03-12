@@ -1,11 +1,10 @@
 ### 💫 About Me:
-Hi 👋, I'm Anand Singh Chauhan  <br><br>💻 Python Developer | AI/ML Enthusiast | Full Stack Developer  <br>🎯 Experience in Web Development  <br><br>
-💻 Passionate Developer: I’m a Web Developer with experience in Frontend, Full Stack Development, and AI/ML. I enjoy building modern web applications, designing clean user interfaces, and creating efficient backend systems using Python and modern frameworks.
-🌱 Always Learning: Currently exploring advanced technologies in Artificial Intelligence, Machine Learning, and scalable backend architectures to build smarter and more efficient applications.
-🔧 Tech Enthusiast: I love working with technologies like Python, React, Angular, FastAPI, and modern web tools to create real-world solutions and improve application performance.
-📈 Impactful Development: I focus on building practical projects such as web applications, automation tools, and AI-powered solutions that solve real problems and enhance user experiences.
-🌍 Ask Me About: Python, React, Angular, APIs, Web Development, and Machine Learning.
-📬 Let’s Connect: Feel free to reach out at **[anandsinghc22@gmail.com](mailto:anandsinghc22@gmail.com)** for collaboration, discussions, or interesting project ideas.
+Hi 👋, I'm Anand Singh Chauhan  <br><br>💻 Web Developer | AI/ML Engineer | Full Stack Developer <br><br>
+💻 Passionate Developer: I’m a Web Developer with experience in Frontend, Full Stack Development, and AI/ML. I enjoy building modern web applications, designing clean user interfaces, and creating efficient backend systems using Python and modern frameworks. <br>
+🌱 Always Learning: Currently exploring advanced technologies in Artificial Intelligence, Machine Learning, and scalable backend architectures to build smarter and more efficient applications. <br>
+🔧 Tech Enthusiast: I love working with technologies like Python, React, Angular, FastAPI, and modern web tools to create real-world solutions and improve application performance. <br>
+📈 Impactful Development: I focus on building practical projects such as web applications, automation tools, and AI-powered solutions that solve real problems and enhance user experiences. <br>
+🌍 Ask Me About: Python, React, Angular, APIs, Web Development, and Machine Learning. <br>
 ⚡ Fun Fact: I enjoy solving complex problems and turning ideas into working applications through code.
 
 ### 🌐 Socials:
