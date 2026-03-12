@@ -1,5 +1,5 @@
 ### 💫 About Me:
-Hi 👋, I'm Anand Singh Chauhan  <br>💻 Web Developer | AI/ML Engineer | Full Stack Developer <br>
+Hi 👋, I'm Anand Singh Chauhan  <br>💻 Web Developer | AI / ML Engineer | Full Stack Developer <br>
 <li> 💻 Passionate Developer: I’m a Web Developer with experience in Frontend, Full Stack Development, and AI/ML. I enjoy building modern web applications, designing clean user interfaces, and creating efficient backend systems using Python and modern frameworks. </li>
 <li>🌱 Always Learning: Currently exploring advanced technologies in Artificial Intelligence, Machine Learning, and scalable backend architectures to build smarter and more efficient applications.</li>
 <li>🔧 Tech Enthusiast: I love working with technologies like Python, React, Angular, FastAPI, and modern web tools to create real-world solutions and improve application performance. </li>
@@ -19,12 +19,6 @@ Hi 👋, I'm Anand Singh Chauhan  <br>💻 Web Developer | AI/ML Engineer | Full
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prithviraj-cyber&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prithviraj-cyber&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prithviraj-cyber&icon=0&color=0)](https://visitcount.itsvg.in)
