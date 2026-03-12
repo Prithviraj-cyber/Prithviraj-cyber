@@ -1,4 +1,4 @@
-# 💫 About Me:
+### 💫 About Me:
 # Hi 👋, I'm Anand Singh Chauhan  <br><br>💻 Python Developer | AI/ML Enthusiast | Full Stack Developer  <br>🎯 Experience in Web Development  <br><br>I am a passionate Python Developer in building scalable web applications and solving real-world problems.  <br><br>I specialise in:<br>- Python Development<br>- API Development & Integration<br>- Machine Learning (Beginner to Intermediate)<br>- Frontend Development (React, Angular, Next.js)<br><br>Currently, I am focusing on:<br>- Machine Learning Projects<br>- Automation with Python<br>- Building AI-powered Applications
 
 
